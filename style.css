@@ -1,7 +1,8 @@
 body {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 16px;
+  font-family: 'Poiret One', cursive;
+  font-size: px;
   line-height: 1;
+  background: linear-gradient(to right, black, tan);
 }
 
 textarea{
@@ -49,19 +50,24 @@ textarea{
 
 .present {
   background-color: #ff6961;
-  color: white;
+  color: tan;
 }
 
 .future {
   background-color: #77dd77;
-  color: white;
+  color: gray;
 }
-
+.far {
+  position: absolute;
+  top: 35%;
+  left: 35%;
+}
 .saveBtn {
   border-left: 1px solid black;
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
-  background-color: #06AED5;
+  background-color: black;
+
   color: white;
 }
 

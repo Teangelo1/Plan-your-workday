@@ -22,15 +22,15 @@ var times = [
     function alwaysToday() {
         $("#currentDay").html(moment().format('MMMM Do YYYY, h:mm:ss a'));
     }
-    setInterval(alwaysToday, 500);
-    //Work on getting current date to load asap.
+    setInterval(alwaysToday, 500); // /Work on getting current date to load asap.
+
     for (i = 0; i < times.length; i++) {
         var changeAmPm = " pm ";
         var hourlyColor = "past"
         var time = times[i].hour;
 
-        if (times[i].hour <= 12) {
-            changeAmPm = "am";
+        if (times[i].hour <= 12) {  // Conditional statements for:
+            changeAmPm = "am";      // updating time from AM - PM and Colors based on which hour is past present or future
         }
 
         if (time > 12) {

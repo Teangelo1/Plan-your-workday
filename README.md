@@ -1,6 +1,6 @@
 #Plan You Work Day
 
-Goal: Dynamically update HTML & CSS code to Create a simple calendar application that allows the user to save events for each hour of the day using jQuery.
+Goal: Dynamically update HTML & CSS code to create a simple calendar application that allows the user to save events for each hour of the day using jQuery.
 
 ##Developer Teangelo Burks
 
@@ -22,7 +22,7 @@ Goal: Dynamically update HTML & CSS code to Create a simple calendar application
 
 **What exactly will the user experience look like?**
 
-![Day Planner Interface](images/DayPlanner1.jpeg)
+![Day Planner Interface](Images/DayPlanner1.jpeg)
 
 **Tools used:**
 * HTML

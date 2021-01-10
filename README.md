@@ -31,4 +31,6 @@ Goal: Dynamically update HTML & CSS code to create a simple calendar application
 * jQuery
 * Moment.js
 
-Here is Deployed URL: [Work Day Planner]()
+Here is Deployed URL: [Work Day Planner](https://teangelo1.github.io/Plan-your-workday/)
+
+>Plan your day out guys!!
